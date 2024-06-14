@@ -1,0 +1,104 @@
+[
+  {
+    "question": "What is JavaScript ?",
+    "answers": [
+      {
+        "text": "JavaScript is a dynamic programming language used to create interactive web pages.",
+        "correctAnswer": true
+      },
+      {
+        "text": "JavaScript is a static language for styling web pages.",
+        "correctAnswer": false
+      },
+      {
+        "text": "JavaScript is a markup language for structuring web content.",
+        "correctAnswer": false
+      },
+      {
+        "text": "JavaScript is a database management language.",
+        "correctAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which company developed JavaScript ?",
+    "answers": [
+      { "text": "Microsoft", "correctAnswer": false },
+      { "text": "Netscape", "correctAnswer": true },
+      { "text": "Google", "correctAnswer": false },
+      { "text": "Apple", "correctAnswer": false }
+    ]
+  },
+  {
+    "question": "Which symbol is used for comments in JavaScript ?",
+    "answers": [
+      { "text": "// for single-line comments", "correctAnswer": true },
+      { "text": "/* for single-line comments */", "correctAnswer": false },
+      { "text": "<!-- for single-line comments -->", "correctAnswer": false },
+      { "text": "# for single-line comments", "correctAnswer": false }
+    ]
+  },
+  {
+    "question": "Which method is used to add an element at the end of an array in JavaScript ?",
+    "answers": [
+      { "text": "push()", "correctAnswer": true },
+      { "text": "pop()", "correctAnswer": false },
+      { "text": "shift()", "correctAnswer": false },
+      { "text": "unshift()", "correctAnswer": false }
+    ]
+  },
+  {
+    "question": "Which of the following is a JavaScript framework ?",
+    "answers": [
+      { "text": "Angular", "correctAnswer": true },
+      { "text": "Laravel", "correctAnswer": false },
+      { "text": "Django", "correctAnswer": false },
+      { "text": "Spring", "correctAnswer": false }
+    ]
+  },
+  {
+    "question": "How do you create a function in JavaScript ?",
+    "answers": [
+      { "text": "function myFunction() {}", "correctAnswer": true },
+      { "text": "def myFunction() {}", "correctAnswer": false },
+      { "text": "function:myFunction() {}", "correctAnswer": false },
+      { "text": "create myFunction() {}", "correctAnswer": false }
+    ]
+  },
+  {
+    "question": "What does 'DOM' stand for in the context of web development ?",
+    "answers": [
+      { "text": "Document Object Model", "correctAnswer": true },
+      { "text": "Data Object Model", "correctAnswer": false },
+      { "text": "Document Orientation Model", "correctAnswer": false },
+      { "text": "Data Orientation Model", "correctAnswer": false }
+    ]
+  },
+  {
+    "question": "Which method can be used to select an element by its ID in JavaScript ?",
+    "answers": [
+      { "text": "getElementById()", "correctAnswer": true },
+      { "text": "getElementByClass()", "correctAnswer": false },
+      { "text": "getElementByTag()", "correctAnswer": false },
+      { "text": "getElementByName()", "correctAnswer": false }
+    ]
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'script.js' ?",
+    "answers": [
+      { "text": "<script src='script.js'></script>", "correctAnswer": true },
+      { "text": "<script href='script.js'></script>", "correctAnswer": false },
+      { "text": "<script ref='script.js'></script>", "correctAnswer": false },
+      { "text": "<script name='script.js'></script>", "correctAnswer": false }
+    ]
+  },
+  {
+    "question": "Which built-in method combines the text of two strings and returns a new string ?",
+    "answers": [
+      { "text": "concat()", "correctAnswer": true },
+      { "text": "append()", "correctAnswer": false },
+      { "text": "attach()", "correctAnswer": false },
+      { "text": "combine()", "correctAnswer": false }
+    ]
+  }
+]
